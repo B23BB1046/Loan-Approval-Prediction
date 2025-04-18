@@ -53,9 +53,9 @@ Among all models tested, the Random Forest Classifier provided the most balanced
 
 ## Contact
 For queries or collaboration, feel free to contact:  
-**Sparsh Gupta**  
-Student of Department of Civil and Infrastructure Engineering, IIT Jodhpur  
-Email: b23ci1037@iitj.ac.in
+**Yogendra**  
+Student of Bioscience and Bioengineering, IIT Jodhpur  
+Email: b23bb1046@iitj.ac.in
 
 ---
 *"This project demonstrates the potential of machine learning in automating financial decision-making, offering consistent and efficient predictions for loan approvals."*
